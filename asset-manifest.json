@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/Upaskar/static/css/main.e5847781.chunk.css",
+    "main.js": "/Upaskar/static/js/main.9e629392.chunk.js",
+    "main.js.map": "/Upaskar/static/js/main.9e629392.chunk.js.map",
+    "runtime-main.js": "/Upaskar/static/js/runtime-main.257368f0.js",
+    "runtime-main.js.map": "/Upaskar/static/js/runtime-main.257368f0.js.map",
+    "static/js/2.82ca2c44.chunk.js": "/Upaskar/static/js/2.82ca2c44.chunk.js",
+    "static/js/2.82ca2c44.chunk.js.map": "/Upaskar/static/js/2.82ca2c44.chunk.js.map",
+    "index.html": "/Upaskar/index.html",
+    "precache-manifest.26744ced25d07294e7ea172abc1260f8.js": "/Upaskar/precache-manifest.26744ced25d07294e7ea172abc1260f8.js",
+    "service-worker.js": "/Upaskar/service-worker.js",
+    "static/css/main.e5847781.chunk.css.map": "/Upaskar/static/css/main.e5847781.chunk.css.map",
+    "static/js/2.82ca2c44.chunk.js.LICENSE.txt": "/Upaskar/static/js/2.82ca2c44.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.257368f0.js",
+    "static/js/2.82ca2c44.chunk.js",
+    "static/css/main.e5847781.chunk.css",
+    "static/js/main.9e629392.chunk.js"
+  ]
+}
