@@ -8,13 +8,14 @@
     box-sizing: border-box;
     box-shadow: none;
     cursor: pointer;
+    transition: all 0.4s linear;
 }
 .dropContent
 {
     display: flex;
     width:100px;
+    height:auto;
     padding:0;
-    height: auto;
     left:0;
     padding-top:1rem;
     /* top: 45px; */
@@ -23,7 +24,7 @@
     justify-content: flex-start;
     align-items: center;
     box-sizing: border-box;
-    z-index: 999;
+    z-index: 999;   
 }
 .item a
 {
@@ -43,19 +44,45 @@
     height:2px;
     background-color: #fff;
 }
+.hidden{display: none;}
+.slideDown
+{
+    animation: slideDown 0.4s linear;
+    animation-fill-mode: forwards;
+}
+@keyframes slideDown
+{
+    from{opacity:0;transform:translateY(-10px);}
+    to{opacity:1;transform: translateY(0);}
+}
+.slideUp
+{
+    animation: slideUp 0.4s linear;
+    animation-fill-mode: forwards;
+}
+@keyframes slideUp
+{
+    from{opacity:1;transform: translateY(0);}
+    to{opacity:0;transform: translateY(-10px);}
+}
 @media only screen and (min-width: 992px)
 {
     .dropContent
     {
-        display: none;
+        opacity: 0;
         position:absolute;
     }
+    .slideDown,.slideUp{animation: none}
     .item a:hover
-    {
-    /* border-bottom: 2px solid grey; */
-        box-shadow: 0px 2px 0px  grey;
-    }
-    .item:hover ul.dropContent{display: flex;}
-    .dropContent li:hover{display: flex;}
+    {box-shadow: 0px 2px 0px  grey;}
+    .item:hover ul.dropContent{opacity: 1;}
+    .dropContent li:hover{opacity: 1;}
     .separator{display: block;}
+}
+@media only screen and (max-width:1024px)
+{
+    .dropContent
+    {
+        position: static;
+    }
 }

@@ -3,7 +3,6 @@ import classes from './Navbar.module.css';
 import logo from './../../images/logo.png';
 import NavigationItems from './../../Component/NavigationItems/NavigationItems';
 import Cover from './../../Hoc/Cover';
-import { render } from '@testing-library/react';
 class Navigation extends Component 
 {
     state = {
@@ -16,7 +15,8 @@ class Navigation extends Component
         temp.push(classes.show);
         this.setState({layoverStyle:temp})
     }
-    closeLayover = () => {
+    closeLayover = () => 
+    {
         let temp=this.state.layoverStyle;
         temp.pop();
         temp.push(classes.hide);
@@ -25,14 +25,14 @@ class Navigation extends Component
     showDrop = () => 
     {
         let temp= this.state.showDropList;
-        this.setState({showDropList:!temp})
+        this.setState({showDropList:!temp});
     }
     render()
     {
         return(
             <Cover>
                 <main className={classes.navbar}>
-                    <span className={classes.icon} onClick={this.showLayover}><i className="fas fa-bars"></i></span>
+                    <span className={classes.bars} onClick={this.showLayover}><i className="fas fa-bars"></i></span>
 
                     <div className={classes.brand}>
                         <img className={classes.logo} src={logo} alt="Upaskar Logo"/>
@@ -40,20 +40,19 @@ class Navigation extends Component
                     </div>
                     <div className={classes.nav}>
                         <ul>
-                            <NavigationItems clicked={null} show={true}></NavigationItems>
+                            <NavigationItems clicked={null} show={true} hoverable={true}></NavigationItems>
                         </ul>
                     </div> 
                 </main>
                 <div className={this.state.layoverStyle.join(' ')}>
-                    <span className={classes.icon} onClick={this.closeLayover}><i className="fas fa-times"></i></span>
+                    <span className={classes.exit} onClick={this.closeLayover}><i className="fas fa-times"></i></span>
                     <div className={classes.laynav}>
                     <ul>
                             <NavigationItems clicked={this.showDrop} show={this.state.showDropList}></NavigationItems>
                     </ul>
                     </div>
                 </div>
-            </Cover>
-            
+            </Cover>       
     )}
     
 }
