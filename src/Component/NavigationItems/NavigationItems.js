@@ -9,7 +9,7 @@ const NavigationItems = (props) =>
                         <NavigationItem name="Home"></NavigationItem>
                         <NavigationItem name="Categories" hoverable={props.hoverable} drop={true} 
                         show={props.show} clicked={props.clicked} 
-                        dropList={["Decor","KitchenWare","Furniture"]}>
+                        dropList={["Decor","KitchenWare","Furniture & Lightning","Tableware"]}>
                         </NavigationItem>
                         <NavigationItem name="About"></NavigationItem>
                         <NavigationItem name="Contact Us"></NavigationItem>

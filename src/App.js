@@ -1,10 +1,13 @@
 import React from 'react';
 import classes from './App.module.css';
 import Layout from './Component/Layout/Layout';
+import Landing from './Component/Landing/Landing';
 function App() {
   return (
     <div className={classes.App}>
-      <Layout></Layout>
+      <Layout>
+        <Landing/>
+      </Layout>
     </div>
   );
 }

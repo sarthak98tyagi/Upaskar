@@ -1,13 +1,15 @@
 import React from 'react';
-// import classes from './Layout.module.css';
+import classes from './Layout.module.css';
 import Cover from './../../Hoc/Cover';
 import Navbar from './../../Container/Navbar/Navbar';
-// import {Button} from 'react-bootstrap';
-const Layout = () =>
+const Layout = (props) =>
 {
     return (
         <Cover>
             <Navbar></Navbar>
+            <main className={classes.content}>
+                {props.children}
+            </main>
         </Cover>
     )
 }

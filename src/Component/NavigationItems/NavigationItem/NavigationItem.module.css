@@ -9,9 +9,11 @@
     box-shadow: none;
     cursor: pointer;
     transition: all 0.4s linear;
+    color: #205179 !important;
 }
 .dropContent
 {
+    position: absolute;
     display: flex;
     width:100px;
     height:auto;
@@ -24,13 +26,18 @@
     justify-content: flex-start;
     align-items: center;
     box-sizing: border-box;
-    z-index: 999;   
+    z-index: 110000 !important;   
+}
+.dropContent .item
+{
+    position: static;
+    color: #205179;
 }
 .item a
 {
     display: block;
     text-decoration: none;
-    color: #000;
+    color: #205179;
 }
 .item i
 {
@@ -69,14 +76,17 @@
 {
     .dropContent
     {
-        opacity: 0;
+        opacity: 1;
+        display: none;
         position:absolute;
+        z-index: 110000 !important;   
+
     }
     .slideDown,.slideUp{animation: none}
     .item a:hover
     {box-shadow: 0px 2px 0px  grey;}
-    .item:hover ul.dropContent{opacity: 1;}
-    .dropContent li:hover{opacity: 1;}
+    .item:hover ul.dropContent{display: flex;}
+    ul.dropContent .item:hover{display: flex;}
     .separator{display: block;}
 }
 @media only screen and (max-width:1024px)

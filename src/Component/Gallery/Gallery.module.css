@@ -1,0 +1,28 @@
+.galleryCover
+{
+    border: 2px solid #205179;
+    padding: 15px;
+    margin: 0;
+    position: relative;
+    border-radius: 5px;
+    z-index: -1 !important;
+}
+.galleryCover .row > *
+{
+    margin: 20px auto 0 auto; 
+    /* position: inherit; */
+}
+.title
+{
+    background-color: #fff;
+    color: #205179;
+    position: absolute;
+    text-align: center;
+    padding: 10px;
+    font-size: 2rem;
+    font-weight: bolder;
+    box-sizing: border-box;
+    top:-35px;
+    left:50%;
+    transform: translateX(-50%);
+}
