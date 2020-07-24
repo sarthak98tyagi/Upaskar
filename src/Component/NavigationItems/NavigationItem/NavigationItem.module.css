@@ -39,11 +39,12 @@
     text-decoration: none;
     color: #205179;
 }
+.item a.active{box-shadow: 0px 2px 0px #205179;}
+
 .item i
 {
-    margin:5px;
+   margin-left: 5px; 
 }
-
 .separator
 {
     display: none;
@@ -74,6 +75,7 @@
 }
 @media only screen and (min-width: 992px)
 {
+
     .dropContent
     {
         opacity: 1;
@@ -83,11 +85,13 @@
 
     }
     .slideDown,.slideUp{animation: none}
-    .item a:hover
-    {box-shadow: 0px 2px 0px  grey;}
+    .item a:hover,.item a.active
+    {box-shadow: 0px 2px 0px #205179;}
     .item:hover ul.dropContent{display: flex;}
     ul.dropContent .item:hover{display: flex;}
     .separator{display: block;}
+    .item a.active{box-shadow: 0px 2px 0px #205179;}
+
 }
 @media only screen and (max-width:1024px)
 {

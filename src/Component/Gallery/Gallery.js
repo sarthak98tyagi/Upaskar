@@ -6,6 +6,7 @@ const Gallery = (props) =>
 {
     return(
         <Container fluid className={classes.galleryCover}>
+            <div className={classes.title}>{props.name}</div>   
             <Row className={classes.row}>
                 <Col sm="6" lg="4"><Card/></Col>
                 <Col sm="6" lg="4"><Card/></Col>
@@ -15,7 +16,6 @@ const Gallery = (props) =>
                 <Col sm="6" lg="4"><Card/></Col>
                 <Col sm="6" lg="4"><Card/></Col>
             </Row>
-            <div className={classes.title}>Title</div>   
         </Container>
     )
 }

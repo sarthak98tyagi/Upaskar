@@ -1,11 +1,14 @@
 import React from 'react';
 import classes from './NavigationItem.module.css';
 import Cover from './../../../Hoc/Cover';
+import {NavLink} from 'react-router-dom';
 const NavigationItem = (props) =>
 {
     let drop=null;
+    let dic={'Home':'/','Decor':'Categories/Decor','Categories':'/','Kitchenware':'/Categories/KitchenWare','Furniture & Lightning':'/Categories/FurnitureandLightning','Tableware':'/Categories/TableWare','About':'/About','Contact Us':'/Contact'}
     let arr=[];
-    let item=<li className={classes.item}><a href='/'>{props.name}</a></li>;
+    console.log(props.name,dic[props.name])
+    let item=<li className={classes.item}><NavLink  activeClassName={classes.active} to={dic[props.name]} exact>{props.name}</NavLink></li>;
     if(props.name==="Categories")
     {
         drop=props.drop;
@@ -13,8 +16,8 @@ const NavigationItem = (props) =>
         if(!props.hoverable && props.show)
         {
             if(arr.length>1)   
-                arr.pop()
-            arr.push(classes.slideDown);
+                arr.pop()   
+            arr.push(classes.slideDown);    
         }
         // else if(!props.hoverable && !props.show)
         // {
@@ -31,12 +34,12 @@ const NavigationItem = (props) =>
                             {dropList.map((item,i) =>{
                                 if(i===(props.dropList.length-1))
                                 {
-                                    return <li className={classes.item} key={i}><a href="/">{item}</a></li>;
+                                    return <li className={classes.item} key={i}><NavLink activeClassName={classes.active} to={dic[item]}>{item}</NavLink></li>;
                                 }
                                 else
                                 {
                                     return (<Cover key={i}>
-                                        <li className={classes.item}><a href="/">{item}</a></li>
+                                        <li className={classes.item}><NavLink activeClassName={classes.active} to={dic[item]}>{item}</NavLink></li>
                                         <div className={classes.separator}></div>
                                     </Cover>)
                                 }
