@@ -40,7 +40,7 @@
     color: #205179;
 }
 .item a.active{box-shadow: 0px 2px 0px #205179;}
-
+.item:hover ul.dropContent{display: flex;}
 .item i
 {
    margin-left: 5px; 

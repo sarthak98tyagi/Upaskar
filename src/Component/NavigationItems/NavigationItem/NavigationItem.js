@@ -5,7 +5,7 @@ import {NavLink} from 'react-router-dom';
 const NavigationItem = (props) =>
 {
     let drop=null;
-    let dic={'Home':'/','Decor':'Categories/Decor','Categories':'/','Kitchenware':'/Categories/KitchenWare','Furniture & Lightning':'/Categories/FurnitureandLightning','Tableware':'/Categories/TableWare','About':'/About','Contact Us':'/Contact'}
+    let dic={'Home':'/','Decor':'/Categories/Decor','Categories':'/','Kitchenware':'/Categories/KitchenWare','Furniture & Lightning':'/Categories/FurnitureandLightning','Tableware':'/Categories/TableWare','About':'/About','Contact Us':'/Contact'}
     let arr=[];
     console.log(props.name,dic[props.name])
     let item=<li className={classes.item}><NavLink  activeClassName={classes.active} to={dic[props.name]} exact>{props.name}</NavLink></li>;
@@ -34,19 +34,19 @@ const NavigationItem = (props) =>
                             {dropList.map((item,i) =>{
                                 if(i===(props.dropList.length-1))
                                 {
-                                    return <li className={classes.item} key={i}><NavLink activeClassName={classes.active} to={dic[item]}>{item}</NavLink></li>;
+                                    return <li className={classes.item} key={i}><NavLink activeClassName={classes.active} to={dic[item]} exact>{item}</NavLink></li>;
                                 }
                                 else
                                 {
                                     return (<Cover key={i}>
-                                        <li className={classes.item}><NavLink activeClassName={classes.active} to={dic[item]}>{item}</NavLink></li>
+                                        <li className={classes.item}><NavLink activeClassName={classes.active} to={dic[item]} exact>{item}</NavLink></li>
                                         <div className={classes.separator}></div>
                                     </Cover>)
                                 }
                             })}
                         </ul>);
-        item=(<li className={classes.item} onClick={props.clicked}>
-            <span>{props.name}<span>{props.show && !props.hoverable?<i className="fas fa-angle-up"></i>:<i className="fas fa-angle-down"></i>}</span></span>
+        item=(<li className={classes.item}>
+            <span onClick={props.clicked}>{props.name}<span>{props.show && !props.hoverable?<i className="fas fa-angle-up"></i>:<i className="fas fa-angle-down"></i>}</span></span>
             {props.show?dropDown:null}
           </li>)
     }     
