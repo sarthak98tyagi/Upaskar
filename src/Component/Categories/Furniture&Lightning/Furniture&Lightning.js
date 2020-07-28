@@ -8,7 +8,7 @@ const FurnitureLightning = (props) =>
      function trim(arr,name)
      {
          let list=images.map((s,i)=>{
-            let t=s.split('/').pop().split('.');
+            // let t=s.split('/').pop().split('.');
             return name+String(i+1);
         });
         return list;

@@ -18,8 +18,14 @@
     max-height:300px;
     text-align: center;
     margin-bottom: 10px;
+    overflow: hidden;
 }
 .cardImageHolder img
 {
     width:100%;
+    transition: all 0.3s ease-in-out;
+}
+.cardImageHolder img:hover
+{
+    transform: scale(1.3);
 }
