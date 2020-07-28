@@ -1,27 +1,47 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "250cef4a897107c6f69fc65c6434fe27",
+    "revision": "5cb1af337a0e81cebff49dd293804f3d",
     "url": "/Upaskar/index.html"
   },
   {
-    "revision": "2b65222dec99fbf0b505",
-    "url": "/Upaskar/static/css/main.004f3d80.chunk.css"
+    "revision": "789b88340acd472eb16a",
+    "url": "/Upaskar/static/css/main.a586d74a.chunk.css"
   },
   {
-    "revision": "83227b4ca27bc6eb4706",
-    "url": "/Upaskar/static/js/2.5915cff0.chunk.js"
+    "revision": "10c7c89918da6852f8de",
+    "url": "/Upaskar/static/js/2.d31392a5.chunk.js"
   },
   {
     "revision": "3453b8997016469371284a28c0e873e2",
-    "url": "/Upaskar/static/js/2.5915cff0.chunk.js.LICENSE.txt"
+    "url": "/Upaskar/static/js/2.d31392a5.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "2b65222dec99fbf0b505",
-    "url": "/Upaskar/static/js/main.dd959f3c.chunk.js"
+    "revision": "789b88340acd472eb16a",
+    "url": "/Upaskar/static/js/main.ef501e28.chunk.js"
   },
   {
     "revision": "4bd6577c82e587a25f55",
     "url": "/Upaskar/static/js/runtime-main.257368f0.js"
+  },
+  {
+    "revision": "589a500e0565eb6183285ddfbe3b82b1",
+    "url": "/Upaskar/static/media/ChoppingBoards1.589a500e.jpg"
+  },
+  {
+    "revision": "8c31643d23431f2ba7688db51b9f1baf",
+    "url": "/Upaskar/static/media/ChoppingBoards2.8c31643d.jpg"
+  },
+  {
+    "revision": "65bd31bc63edf0c524b81c6a254f46bd",
+    "url": "/Upaskar/static/media/ChoppingBoards3.65bd31bc.jpg"
+  },
+  {
+    "revision": "a5c5eefb30a13fa583d6c23b34861cb4",
+    "url": "/Upaskar/static/media/ChoppingBoards4.a5c5eefb.jpg"
+  },
+  {
+    "revision": "e0ab0362370f96f6327a8e964ffc5dc6",
+    "url": "/Upaskar/static/media/ChoppingBoards5.e0ab0362.jpg"
   },
   {
     "revision": "47f4c4d36f95d561d23e079008b90029",
@@ -126,6 +146,134 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
     "revision": "be89c45dd826fee4de685f1c689477e8",
     "url": "/Upaskar/static/media/Dinnerware9.be89c45d.jpg"
+  },
+  {
+    "revision": "436dd1d32e21927cc9c376be39115691",
+    "url": "/Upaskar/static/media/DinningDecor1.436dd1d3.jpg"
+  },
+  {
+    "revision": "170922db2d60f0d0ff6e64d53f576a0a",
+    "url": "/Upaskar/static/media/DinningDecor10.170922db.jpg"
+  },
+  {
+    "revision": "6cb0edde3baf27101afb8356d6df5846",
+    "url": "/Upaskar/static/media/DinningDecor11.6cb0edde.jpg"
+  },
+  {
+    "revision": "96a4486ed5be0cc7f9d7358f96f3faf6",
+    "url": "/Upaskar/static/media/DinningDecor12.96a4486e.jpg"
+  },
+  {
+    "revision": "67d82240434310106ae1cf69f3cf6a7e",
+    "url": "/Upaskar/static/media/DinningDecor13.67d82240.jpg"
+  },
+  {
+    "revision": "67c7a089d609c63b2610d0752745d81c",
+    "url": "/Upaskar/static/media/DinningDecor14.67c7a089.jpg"
+  },
+  {
+    "revision": "3e3127cb1e63750dce60309188349869",
+    "url": "/Upaskar/static/media/DinningDecor15.3e3127cb.jpg"
+  },
+  {
+    "revision": "6e10aaa851bae7366cbf0778f7b131e4",
+    "url": "/Upaskar/static/media/DinningDecor16.6e10aaa8.jpg"
+  },
+  {
+    "revision": "1224eed0f24e5fd19d3038aef0db5d07",
+    "url": "/Upaskar/static/media/DinningDecor17.1224eed0.jpg"
+  },
+  {
+    "revision": "6eb26ee5a02e18f906c804f47d98690d",
+    "url": "/Upaskar/static/media/DinningDecor18.6eb26ee5.jpg"
+  },
+  {
+    "revision": "60127c678425f7ab6160803f394b60b7",
+    "url": "/Upaskar/static/media/DinningDecor19.60127c67.jpg"
+  },
+  {
+    "revision": "198814097f878924961166f8c1f75a75",
+    "url": "/Upaskar/static/media/DinningDecor2.19881409.jpg"
+  },
+  {
+    "revision": "49e02932a9d50805891d254c00767b6a",
+    "url": "/Upaskar/static/media/DinningDecor20.49e02932.jpg"
+  },
+  {
+    "revision": "d5a0bba6be3419b8cc7ddbadb23e6ccd",
+    "url": "/Upaskar/static/media/DinningDecor21.d5a0bba6.jpg"
+  },
+  {
+    "revision": "d55619065929b4cd06825e049822ee39",
+    "url": "/Upaskar/static/media/DinningDecor22.d5561906.jpg"
+  },
+  {
+    "revision": "99bebef3e716fdc74f3e384929ddd04f",
+    "url": "/Upaskar/static/media/DinningDecor23.99bebef3.jpg"
+  },
+  {
+    "revision": "10d868d185fc22dcb65cc8f3b8ecd849",
+    "url": "/Upaskar/static/media/DinningDecor24.10d868d1.jpg"
+  },
+  {
+    "revision": "32890c42ae5545454a6ef7210645d657",
+    "url": "/Upaskar/static/media/DinningDecor25.32890c42.jpg"
+  },
+  {
+    "revision": "468810e0d7e43a5cbdcd3dd12e5f7353",
+    "url": "/Upaskar/static/media/DinningDecor26.468810e0.jpg"
+  },
+  {
+    "revision": "d71f6612d67dd8b92d46f1799edd0547",
+    "url": "/Upaskar/static/media/DinningDecor27.d71f6612.jpg"
+  },
+  {
+    "revision": "bf3c53c876c22fda6ea030f26d8431bc",
+    "url": "/Upaskar/static/media/DinningDecor28.bf3c53c8.jpg"
+  },
+  {
+    "revision": "2965a03cbb08ae347d62f86abdcd165a",
+    "url": "/Upaskar/static/media/DinningDecor29.2965a03c.jpg"
+  },
+  {
+    "revision": "a378a57d4e2f102dda8c6d31f346ee2a",
+    "url": "/Upaskar/static/media/DinningDecor3.a378a57d.jpg"
+  },
+  {
+    "revision": "0a272a1fce4badd1532101de3fef693d",
+    "url": "/Upaskar/static/media/DinningDecor30.0a272a1f.jpg"
+  },
+  {
+    "revision": "5ec73e8cf1e709fd5d28749c63f42f21",
+    "url": "/Upaskar/static/media/DinningDecor31.5ec73e8c.jpg"
+  },
+  {
+    "revision": "247edf03eaa9fc34e8887e05cf4fa3b2",
+    "url": "/Upaskar/static/media/DinningDecor32.247edf03.jpg"
+  },
+  {
+    "revision": "9518cacefe04c4af42463046d269b81e",
+    "url": "/Upaskar/static/media/DinningDecor4.9518cace.jpg"
+  },
+  {
+    "revision": "9294194ac93c830503e99d1ded8ec708",
+    "url": "/Upaskar/static/media/DinningDecor5.9294194a.jpg"
+  },
+  {
+    "revision": "3dc438cd485412f1a4913e3720529243",
+    "url": "/Upaskar/static/media/DinningDecor6.3dc438cd.jpg"
+  },
+  {
+    "revision": "fcad78f103285095a0b1aefc06e30022",
+    "url": "/Upaskar/static/media/DinningDecor7.fcad78f1.jpg"
+  },
+  {
+    "revision": "baf48b85d50e4a8e221e454e7ca99002",
+    "url": "/Upaskar/static/media/DinningDecor8.baf48b85.jpg"
+  },
+  {
+    "revision": "277746b85cb61cad3b9ad0b4477e66ea",
+    "url": "/Upaskar/static/media/DinningDecor9.277746b8.jpg"
   },
   {
     "revision": "3ef6fd8187d9a896d1ba8850b888a467",
@@ -298,6 +446,222 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
     "revision": "ae704e34a0a03a50e4ac3262fcf09f2a",
     "url": "/Upaskar/static/media/FurnitureandLightning9.ae704e34.jpg"
+  },
+  {
+    "revision": "f384f06b43017f48fb601add8b2ad3e3",
+    "url": "/Upaskar/static/media/KitchenDecor1.f384f06b.jpg"
+  },
+  {
+    "revision": "f8257c91d095e47659988d6e43856b06",
+    "url": "/Upaskar/static/media/KitchenDecor2.f8257c91.jpg"
+  },
+  {
+    "revision": "b4eb77f56d9130da86cacf7ced2b5ee7",
+    "url": "/Upaskar/static/media/KitchenDecor3.b4eb77f5.jpg"
+  },
+  {
+    "revision": "c494f187253bb38c23fbf0dba00ecc69",
+    "url": "/Upaskar/static/media/KitchenDecor4.c494f187.jpg"
+  },
+  {
+    "revision": "2cb912acaff4b1991e086ca4d62f96c1",
+    "url": "/Upaskar/static/media/KitchenDecor5.2cb912ac.jpg"
+  },
+  {
+    "revision": "8aa80082ca33ff8e63c4cfb88ce397c1",
+    "url": "/Upaskar/static/media/KitchenDecor6.8aa80082.jpg"
+  },
+  {
+    "revision": "7633e99042f05dfb98366918abfe9d76",
+    "url": "/Upaskar/static/media/KitchenDecor7.7633e990.jpg"
+  },
+  {
+    "revision": "26665935f90d782f62c8f4bff41ece8f",
+    "url": "/Upaskar/static/media/KitchenDecor8.26665935.jpg"
+  },
+  {
+    "revision": "53ffb34c4bb5a14e11a1f8f3e5e187bb",
+    "url": "/Upaskar/static/media/KitchenDecor9.53ffb34c.jpg"
+  },
+  {
+    "revision": "7298930119297214eec5808511d29964",
+    "url": "/Upaskar/static/media/LivingRoomDecor1.72989301.jpg"
+  },
+  {
+    "revision": "277746b85cb61cad3b9ad0b4477e66ea",
+    "url": "/Upaskar/static/media/LivingRoomDecor10.277746b8.jpg"
+  },
+  {
+    "revision": "8061c712c8cf5769a2eab4c7f2a43406",
+    "url": "/Upaskar/static/media/LivingRoomDecor11.8061c712.jpg"
+  },
+  {
+    "revision": "170922db2d60f0d0ff6e64d53f576a0a",
+    "url": "/Upaskar/static/media/LivingRoomDecor12.170922db.jpg"
+  },
+  {
+    "revision": "96a4486ed5be0cc7f9d7358f96f3faf6",
+    "url": "/Upaskar/static/media/LivingRoomDecor13.96a4486e.jpg"
+  },
+  {
+    "revision": "67d82240434310106ae1cf69f3cf6a7e",
+    "url": "/Upaskar/static/media/LivingRoomDecor14.67d82240.jpg"
+  },
+  {
+    "revision": "67c7a089d609c63b2610d0752745d81c",
+    "url": "/Upaskar/static/media/LivingRoomDecor15.67c7a089.jpg"
+  },
+  {
+    "revision": "3e3127cb1e63750dce60309188349869",
+    "url": "/Upaskar/static/media/LivingRoomDecor16.3e3127cb.jpg"
+  },
+  {
+    "revision": "32b74e875f466f658b1eb7fbfe7e103c",
+    "url": "/Upaskar/static/media/LivingRoomDecor17.32b74e87.jpg"
+  },
+  {
+    "revision": "6e10aaa851bae7366cbf0778f7b131e4",
+    "url": "/Upaskar/static/media/LivingRoomDecor18.6e10aaa8.jpg"
+  },
+  {
+    "revision": "47a625f739e58d886fedabda0cc5ffa2",
+    "url": "/Upaskar/static/media/LivingRoomDecor19.47a625f7.jpg"
+  },
+  {
+    "revision": "1158332ca48b11f3f8e80cdf8b05bf7c",
+    "url": "/Upaskar/static/media/LivingRoomDecor2.1158332c.jpg"
+  },
+  {
+    "revision": "1224eed0f24e5fd19d3038aef0db5d07",
+    "url": "/Upaskar/static/media/LivingRoomDecor20.1224eed0.jpg"
+  },
+  {
+    "revision": "065af0fb2a7d9d28c7d8e2003205c9da",
+    "url": "/Upaskar/static/media/LivingRoomDecor21.065af0fb.jpg"
+  },
+  {
+    "revision": "49e02932a9d50805891d254c00767b6a",
+    "url": "/Upaskar/static/media/LivingRoomDecor22.49e02932.jpg"
+  },
+  {
+    "revision": "d5a0bba6be3419b8cc7ddbadb23e6ccd",
+    "url": "/Upaskar/static/media/LivingRoomDecor23.d5a0bba6.jpg"
+  },
+  {
+    "revision": "d55619065929b4cd06825e049822ee39",
+    "url": "/Upaskar/static/media/LivingRoomDecor24.d5561906.jpg"
+  },
+  {
+    "revision": "99bebef3e716fdc74f3e384929ddd04f",
+    "url": "/Upaskar/static/media/LivingRoomDecor25.99bebef3.jpg"
+  },
+  {
+    "revision": "10d868d185fc22dcb65cc8f3b8ecd849",
+    "url": "/Upaskar/static/media/LivingRoomDecor26.10d868d1.jpg"
+  },
+  {
+    "revision": "32890c42ae5545454a6ef7210645d657",
+    "url": "/Upaskar/static/media/LivingRoomDecor27.32890c42.jpg"
+  },
+  {
+    "revision": "58d10ce428f3a91a9427429aaa4867d8",
+    "url": "/Upaskar/static/media/LivingRoomDecor28.58d10ce4.jpg"
+  },
+  {
+    "revision": "468810e0d7e43a5cbdcd3dd12e5f7353",
+    "url": "/Upaskar/static/media/LivingRoomDecor29.468810e0.jpg"
+  },
+  {
+    "revision": "8ccde0bb0f38ad0fff3df2f0b9a067c4",
+    "url": "/Upaskar/static/media/LivingRoomDecor3.8ccde0bb.jpg"
+  },
+  {
+    "revision": "e6178a3a88020da38d2ee5e624ff2121",
+    "url": "/Upaskar/static/media/LivingRoomDecor30.e6178a3a.jpg"
+  },
+  {
+    "revision": "3c0f572d4d99ce5f48999a4479a2242d",
+    "url": "/Upaskar/static/media/LivingRoomDecor31.3c0f572d.jpg"
+  },
+  {
+    "revision": "e22b6c69a094eaedca87c5cfd953ec71",
+    "url": "/Upaskar/static/media/LivingRoomDecor32.e22b6c69.jpg"
+  },
+  {
+    "revision": "c68a365e636aa0fd0eaa3c2cc9e25421",
+    "url": "/Upaskar/static/media/LivingRoomDecor33.c68a365e.jpg"
+  },
+  {
+    "revision": "601766073dc52e9b358c9c48573d302d",
+    "url": "/Upaskar/static/media/LivingRoomDecor34.60176607.jpg"
+  },
+  {
+    "revision": "2a709923dd9404f84295ed26dc32bf21",
+    "url": "/Upaskar/static/media/LivingRoomDecor35.2a709923.jpg"
+  },
+  {
+    "revision": "b21d6c54652592554962982a5949375a",
+    "url": "/Upaskar/static/media/LivingRoomDecor36.b21d6c54.jpg"
+  },
+  {
+    "revision": "7d933375b4c780939487a62cc57dde0e",
+    "url": "/Upaskar/static/media/LivingRoomDecor37.7d933375.jpg"
+  },
+  {
+    "revision": "28eec5f3bb0d924f15f89bb5e50c8ea7",
+    "url": "/Upaskar/static/media/LivingRoomDecor38.28eec5f3.jpg"
+  },
+  {
+    "revision": "b2ea9d784ee07419e9c747b73d67ff53",
+    "url": "/Upaskar/static/media/LivingRoomDecor39.b2ea9d78.jpg"
+  },
+  {
+    "revision": "1d10a0843d92563b5d81bcf9bd4d007f",
+    "url": "/Upaskar/static/media/LivingRoomDecor4.1d10a084.jpg"
+  },
+  {
+    "revision": "f35e454e01723fbfb6215c545929b743",
+    "url": "/Upaskar/static/media/LivingRoomDecor40.f35e454e.jpg"
+  },
+  {
+    "revision": "367be50bcc3744381a6cd070c79f82ed",
+    "url": "/Upaskar/static/media/LivingRoomDecor41.367be50b.jpg"
+  },
+  {
+    "revision": "853f09ac7f9c75e6141e28016c5e3c68",
+    "url": "/Upaskar/static/media/LivingRoomDecor42.853f09ac.jpg"
+  },
+  {
+    "revision": "8e8d01cd70217a2f5605342bd6f41de7",
+    "url": "/Upaskar/static/media/LivingRoomDecor43.8e8d01cd.jpg"
+  },
+  {
+    "revision": "4a8fe892e563424c7054d9d37abdb8f7",
+    "url": "/Upaskar/static/media/LivingRoomDecor44.4a8fe892.jpg"
+  },
+  {
+    "revision": "d2d5c54bf04cc1eafda6b6e6df87ac39",
+    "url": "/Upaskar/static/media/LivingRoomDecor45.d2d5c54b.jpg"
+  },
+  {
+    "revision": "b0f58f4878129f62e86444a30fcdd5dd",
+    "url": "/Upaskar/static/media/LivingRoomDecor5.b0f58f48.jpg"
+  },
+  {
+    "revision": "ce71d97d677e28390db4d6d4378f28bc",
+    "url": "/Upaskar/static/media/LivingRoomDecor6.ce71d97d.jpg"
+  },
+  {
+    "revision": "74f28b648e56f2b40be8abcb29810d53",
+    "url": "/Upaskar/static/media/LivingRoomDecor7.74f28b64.jpg"
+  },
+  {
+    "revision": "b08cfa6ab4dad796225a1fe77fdc9d7a",
+    "url": "/Upaskar/static/media/LivingRoomDecor8.b08cfa6a.jpg"
+  },
+  {
+    "revision": "f7b4f31a0c39ffd9a26c909f60fbccc5",
+    "url": "/Upaskar/static/media/LivingRoomDecor9.f7b4f31a.jpg"
   },
   {
     "revision": "bd350ea98a61d4ef65c430877e52ea65",
