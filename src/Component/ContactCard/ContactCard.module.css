@@ -1,0 +1,30 @@
+.ContactCard
+{
+    width: 100%;
+    display: flex;
+    margin-top: 10px;
+    flex-direction: column;
+    justify-content: flex-start;
+    align-items: center;
+    /* border: 1px solid lightgrey; */
+}
+.ContactCard h2{color:#205179; margin: 10px;}
+.ContactCard i
+{
+    font-size: 7.5rem;
+    color:#205179;
+    margin-bottom: 15px;
+}
+.ContactCard p
+{
+    width: 100%;
+    text-align: center;
+    margin: 0 auto;
+    margin-bottom: 10px;
+}
+@media only screen and (max-width: 578.98px)
+{
+    .ContactCard i{
+        font-size: 4rem;
+    }
+}

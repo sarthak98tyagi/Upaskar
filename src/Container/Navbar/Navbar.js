@@ -32,7 +32,7 @@ class Navigation extends Component
         return(
             <Cover>
                 <main className={classes.navbar}>
-                    <span className={classes.bars} onClick={this.showLayover}><i className="fas fa-bars"></i></span>
+                    <span className={classes.bars} onClick={this.showLayover}><i className={["fas fa-bars",classes.bars].join(' ')}></i></span>
 
                     <div className={classes.brand}>
                         <img className={classes.logo} src={logo} alt="Upaskar Logo"/>

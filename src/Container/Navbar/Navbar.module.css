@@ -56,7 +56,7 @@
 }
 .layover
 {
-    position: relative;
+    position: fixed;
     width:100%;
     height: 100vh;
     top:0;
@@ -84,14 +84,17 @@
     padding: 3px 0; 
     box-sizing: border-box;
 }
+
 .bars
 {
-    position:absolute;
-    right: 10px;
-    top: 12.5px;
-    font-size: 1.5rem;
     display: block;
+    position:absolute;
+    right: 5px;
+    top:8px;
 }
+.bars i{
+    font-size: 1.8rem;
+    color: #205179;}
 .exit
 {
     position:absolute;
@@ -106,8 +109,9 @@
 .show{display: block;}.hide{display: none;}
 @media only screen and (max-width: 575.98px) 
 { 
-    .navbar{justify-content: flex-start;}
-    .title{font-size:1.5 rem}
+    .navbar{justify-content: center;}
+    .title{font-size: 22px;}
+    .logo{width:30px;height:30px;}
 }
 @media only screen and (min-width: 992px)
 {

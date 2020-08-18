@@ -5,13 +5,12 @@ import * as lib from '../../Source/ImagePath';
 
 const Card = (props) =>
 {
-    
     return(
         <div className={classes.cardBody}>
             <div className={classes.cardImageHolder}>
-                <img src={lib[props.src]} alt="Loading.."/>
+                <img src={lib[props.src][0]} alt="Loading.."/>
             </div>
-            <a href='/'><Button val="Buy" styling="theme"/></a>
+            <a href={lib[props.src][1]} target="blank"><Button val="Buy" styling="theme"/></a>
         </div>)
 } 
 export default Card; 
