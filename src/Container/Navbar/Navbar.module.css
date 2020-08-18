@@ -90,10 +90,10 @@
     display: block;
     position:absolute;
     right: 5px;
-    top:8px;
+    top:9px;
 }
 .bars i{
-    font-size: 1.8rem;
+    font-size: 1.5rem;
     color: #205179;}
 .exit
 {
@@ -110,7 +110,7 @@
 @media only screen and (max-width: 575.98px) 
 { 
     .navbar{justify-content: center;}
-    .title{font-size: 22px;}
+    .title{font-size: 26px;}
     .logo{width:30px;height:30px;}
 }
 @media only screen and (min-width: 992px)
