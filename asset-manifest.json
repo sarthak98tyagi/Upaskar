@@ -1,6 +1,6 @@
 {
   "files": {
-    "main.css": "/Upaskar/static/css/main.74a7073b.chunk.css",
+    "main.css": "/Upaskar/static/css/main.8a160622.chunk.css",
     "main.js": "/Upaskar/static/js/main.efd29fe4.chunk.js",
     "main.js.map": "/Upaskar/static/js/main.efd29fe4.chunk.js.map",
     "runtime-main.js": "/Upaskar/static/js/runtime-main.257368f0.js",
@@ -8,9 +8,9 @@
     "static/js/2.86da05b2.chunk.js": "/Upaskar/static/js/2.86da05b2.chunk.js",
     "static/js/2.86da05b2.chunk.js.map": "/Upaskar/static/js/2.86da05b2.chunk.js.map",
     "index.html": "/Upaskar/index.html",
-    "precache-manifest.e9abb38a76de5cf52eaac174c30d8aa9.js": "/Upaskar/precache-manifest.e9abb38a76de5cf52eaac174c30d8aa9.js",
+    "precache-manifest.6923b9fd742509926150db3cf5715ca6.js": "/Upaskar/precache-manifest.6923b9fd742509926150db3cf5715ca6.js",
     "service-worker.js": "/Upaskar/service-worker.js",
-    "static/css/main.74a7073b.chunk.css.map": "/Upaskar/static/css/main.74a7073b.chunk.css.map",
+    "static/css/main.8a160622.chunk.css.map": "/Upaskar/static/css/main.8a160622.chunk.css.map",
     "static/js/2.86da05b2.chunk.js.LICENSE.txt": "/Upaskar/static/js/2.86da05b2.chunk.js.LICENSE.txt",
     "static/media/BestSeller1.jpg": "/Upaskar/static/media/BestSeller1.e47da207.jpg",
     "static/media/BestSeller2.jpg": "/Upaskar/static/media/BestSeller2.044fe896.jpg",
@@ -33,7 +33,7 @@
   "entrypoints": [
     "static/js/runtime-main.257368f0.js",
     "static/js/2.86da05b2.chunk.js",
-    "static/css/main.74a7073b.chunk.css",
+    "static/css/main.8a160622.chunk.css",
     "static/js/main.efd29fe4.chunk.js"
   ]
 }
