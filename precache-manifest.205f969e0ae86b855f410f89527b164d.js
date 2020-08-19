@@ -1,23 +1,23 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "1b97f6b9b8c60d263c3307a3ef5ac12c",
+    "revision": "55388f582ca2bff58c0f15f4e4a652ab",
     "url": "/Upaskar/index.html"
   },
   {
-    "revision": "6264b4a6dac15e4b6c94",
-    "url": "/Upaskar/static/css/main.8a160622.chunk.css"
+    "revision": "f6b67feb40e752338ef4",
+    "url": "/Upaskar/static/css/main.e900b0e6.chunk.css"
   },
   {
-    "revision": "3fe724b1476d901877f3",
-    "url": "/Upaskar/static/js/2.86da05b2.chunk.js"
+    "revision": "0b919fbde624dfe1a5c7",
+    "url": "/Upaskar/static/js/2.6426d659.chunk.js"
   },
   {
     "revision": "3453b8997016469371284a28c0e873e2",
-    "url": "/Upaskar/static/js/2.86da05b2.chunk.js.LICENSE.txt"
+    "url": "/Upaskar/static/js/2.6426d659.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "6264b4a6dac15e4b6c94",
-    "url": "/Upaskar/static/js/main.efd29fe4.chunk.js"
+    "revision": "f6b67feb40e752338ef4",
+    "url": "/Upaskar/static/js/main.2de97181.chunk.js"
   },
   {
     "revision": "4bd6577c82e587a25f55",
@@ -44,8 +44,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/Upaskar/static/media/JewelleryBox2.f9904944.jpg"
   },
   {
-    "revision": "4b50d00237e89be3b5cb460b033c0835",
-    "url": "/Upaskar/static/media/JewelleryBox3.4b50d002.jpg"
+    "revision": "557434a3fc52592768a014c120e7bba2",
+    "url": "/Upaskar/static/media/JewelleryBox3.557434a3.jpg"
   },
   {
     "revision": "ac41ad19f5c3e39796a93a7a389b2cce",

@@ -1,23 +1,23 @@
 {
   "files": {
-    "main.css": "/Upaskar/static/css/main.8a160622.chunk.css",
-    "main.js": "/Upaskar/static/js/main.efd29fe4.chunk.js",
-    "main.js.map": "/Upaskar/static/js/main.efd29fe4.chunk.js.map",
+    "main.css": "/Upaskar/static/css/main.e900b0e6.chunk.css",
+    "main.js": "/Upaskar/static/js/main.2de97181.chunk.js",
+    "main.js.map": "/Upaskar/static/js/main.2de97181.chunk.js.map",
     "runtime-main.js": "/Upaskar/static/js/runtime-main.257368f0.js",
     "runtime-main.js.map": "/Upaskar/static/js/runtime-main.257368f0.js.map",
-    "static/js/2.86da05b2.chunk.js": "/Upaskar/static/js/2.86da05b2.chunk.js",
-    "static/js/2.86da05b2.chunk.js.map": "/Upaskar/static/js/2.86da05b2.chunk.js.map",
+    "static/js/2.6426d659.chunk.js": "/Upaskar/static/js/2.6426d659.chunk.js",
+    "static/js/2.6426d659.chunk.js.map": "/Upaskar/static/js/2.6426d659.chunk.js.map",
     "index.html": "/Upaskar/index.html",
-    "precache-manifest.6923b9fd742509926150db3cf5715ca6.js": "/Upaskar/precache-manifest.6923b9fd742509926150db3cf5715ca6.js",
+    "precache-manifest.205f969e0ae86b855f410f89527b164d.js": "/Upaskar/precache-manifest.205f969e0ae86b855f410f89527b164d.js",
     "service-worker.js": "/Upaskar/service-worker.js",
-    "static/css/main.8a160622.chunk.css.map": "/Upaskar/static/css/main.8a160622.chunk.css.map",
-    "static/js/2.86da05b2.chunk.js.LICENSE.txt": "/Upaskar/static/js/2.86da05b2.chunk.js.LICENSE.txt",
+    "static/css/main.e900b0e6.chunk.css.map": "/Upaskar/static/css/main.e900b0e6.chunk.css.map",
+    "static/js/2.6426d659.chunk.js.LICENSE.txt": "/Upaskar/static/js/2.6426d659.chunk.js.LICENSE.txt",
     "static/media/BestSeller1.jpg": "/Upaskar/static/media/BestSeller1.e47da207.jpg",
     "static/media/BestSeller2.jpg": "/Upaskar/static/media/BestSeller2.044fe896.jpg",
     "static/media/BestSeller3.jpg": "/Upaskar/static/media/BestSeller3.b82b4453.jpg",
     "static/media/JewelleryBox1.jpg": "/Upaskar/static/media/JewelleryBox1.d68cbeb7.jpg",
     "static/media/JewelleryBox2.jpg": "/Upaskar/static/media/JewelleryBox2.f9904944.jpg",
-    "static/media/JewelleryBox3.jpg": "/Upaskar/static/media/JewelleryBox3.4b50d002.jpg",
+    "static/media/JewelleryBox3.jpg": "/Upaskar/static/media/JewelleryBox3.557434a3.jpg",
     "static/media/LivingRoomDecor1.jpg": "/Upaskar/static/media/LivingRoomDecor1.ac41ad19.jpg",
     "static/media/LivingRoomDecor2.jpg": "/Upaskar/static/media/LivingRoomDecor2.20367b94.jpg",
     "static/media/LivingRoomDecor3.jpg": "/Upaskar/static/media/LivingRoomDecor3.1b9aa3ad.jpg",
@@ -32,8 +32,8 @@
   },
   "entrypoints": [
     "static/js/runtime-main.257368f0.js",
-    "static/js/2.86da05b2.chunk.js",
-    "static/css/main.8a160622.chunk.css",
-    "static/js/main.efd29fe4.chunk.js"
+    "static/js/2.6426d659.chunk.js",
+    "static/css/main.e900b0e6.chunk.css",
+    "static/js/main.2de97181.chunk.js"
   ]
 }
