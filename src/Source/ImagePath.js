@@ -218,25 +218,25 @@
 
 
 // Best Sellers
-export const BestSellers1 = [require('./../images/Categories/BestSellers/BestSeller1.jpg'),'https://www.amazon.in/dp/B089CRD1FW/ref=cm_sw_r_wa_apa_i_zNJ6EbFAVD8AW'];
-export const BestSellers2 = [require('./../images/Categories/BestSellers/BestSeller2.jpg'),'https://www.amazon.in/dp/B089KMWXQP/ref=cm_sw_r_wa_apa_i_eQIoFbTJ591Y7'];
-export const BestSellers3 = [require('./../images/Categories/BestSellers/BestSeller3.jpg'),'https://www.amazon.in/dp/B014KTZ7WM/ref=cm_sw_r_wa_apa_i_4OI6EbNMDBFQZ'];
+export const BestSellers1 = [require('./../images/Categories/BestSellers/BestSeller1.jpg'),'https://www.amazon.in/dp/B089CRD1FW/ref=cm_sw_r_wa_apa_i_zNJ6EbFAVD8AW','Mango','Dry Fruit/Salad Bowl','Medium'];
+export const BestSellers2 = [require('./../images/Categories/BestSellers/BestSeller2.jpg'),'https://www.amazon.in/dp/B089KMWXQP/ref=cm_sw_r_wa_apa_i_eQIoFbTJ591Y7','Sheesham','Serving','Medium'];
+export const BestSellers3 = [require('./../images/Categories/BestSellers/BestSeller3.jpg'),'https://www.amazon.in/dp/B014KTZ7WM/ref=cm_sw_r_wa_apa_i_4OI6EbNMDBFQZ','Mango','Single Spectacle Stand','Standard'];
 
 // Jewellery Box
-export const JewelleryBox1 = [require('./../images/Categories/JewelleryBox/JewelleryBox1.jpg'),'https://www.amazon.in/dp/B083P5PHBD/ref=cm_sw_r_wa_apa_i_vPI6Eb2HMGBW4'];
-export const JewelleryBox2 = [require('./../images/Categories/JewelleryBox/JewelleryBox2.jpg'),'https://www.amazon.in/dp/B08BYS543M/ref=cm_sw_r_wa_apa_i_uOIoFb1N6D9PN'];
-export const JewelleryBox3= [require('./../images/Categories/JewelleryBox/JewelleryBox3.jpg'),'https://www.amazon.in/Hanacrafted-Wooden-Jewelry-Box-UC/dp/B08F7FDRWR/ref=sr_1_1?dchild=1&keywords=Upaskar+Creations&qid=1597723163&sr=8-1']
+export const JewelleryBox1 = [require('./../images/Categories/JewelleryBox/JewelleryBox1.jpg'),'https://www.amazon.in/dp/B083P5PHBD/ref=cm_sw_r_wa_apa_i_vPI6Eb2HMGBW4','Mango','Storage','Medium','Antique Elephant Design'];
+export const JewelleryBox2 = [require('./../images/Categories/JewelleryBox/JewelleryBox2.jpg'),'https://www.amazon.in/dp/B08BYS543M/ref=cm_sw_r_wa_apa_i_uOIoFb1N6D9PN','Aluminium on   ','Storage','Medium/Small'];
+export const JewelleryBox3= [require('./../images/Categories/JewelleryBox/JewelleryBox3.jpg'),'https://www.amazon.in/Hanacrafted-Wooden-Jewelry-Box-UC/dp/B08F7FDRWR/ref=sr_1_1?dchild=1&keywords=Upaskar+Creations&qid=1597723163&sr=8-1','Sheesham','Storage','Medium','Carving and brass inlay work']
 
 // Living Room Decor
-export const LivingRoomDecor1 = [require('./../images/Categories/LivingRoomDecor/LivingRoomDecor1.jpg'),'https://www.amazon.in/Generi-Wooden-Spectacle-Holder/dp/B08BRZMXSW/ref=sr_1_18?dchild=1&m=A16MDOG9VLZE2G&marketplaceID=A21TJRUUN4KGV&qid=1597723335&s=merchant-items&sr=1-18'];
-export const LivingRoomDecor2 = [require('./../images/Categories/LivingRoomDecor/LivingRoomDecor2.jpg'),'https://www.amazon.in/dp/B0859B6LFP/ref=cm_sw_r_wa_apa_i_-PI6Eb6VM7J4S'];
-export const LivingRoomDecor3 = [require('./../images/Categories/LivingRoomDecor/LivingRoomDecor3.jpg'),'https://www.amazon.in/dp/B08BTQWZKD/ref=cm_sw_r_wa_apa_i_kLIoFb6XJY56W'];
+export const LivingRoomDecor1 = [require('./../images/Categories/LivingRoomDecor/LivingRoomDecor1.jpg'),'https://www.amazon.in/Generi-Wooden-Spectacle-Holder/dp/B08BRZMXSW/ref=sr_1_18?dchild=1&m=A16MDOG9VLZE2G&marketplaceID=A21TJRUUN4KGV&qid=1597723335&s=merchant-items&sr=1-18','Sheesham','Single Spectacle Stand','Standard','Funny Character'];
+export const LivingRoomDecor2 = [require('./../images/Categories/LivingRoomDecor/LivingRoomDecor2.jpg'),'https://www.amazon.in/dp/B0859B6LFP/ref=cm_sw_r_wa_apa_i_-PI6Eb6VM7J4S','Sheesham','Small Jewellery Storage','Medium','Brass inlay work'];
+export const LivingRoomDecor3 = [require('./../images/Categories/LivingRoomDecor/LivingRoomDecor3.jpg'),'https://www.amazon.in/dp/B08BTQWZKD/ref=cm_sw_r_wa_apa_i_kLIoFb6XJY56W','Sheesham','Wooden Coasters','Medium','Brass inlay work'];
 
 // Serveware
-export const Serveware1 = [require('./../images/Categories/Serveware/Serveware1.jpg'),'https://www.amazon.in/dp/B089CW3RFW/ref=cm_sw_r_wa_apa_i_1MJ6EbSVVF8V7'];
-export const Serveware2 = [require('./../images/Categories/Serveware/Serveware2.jpg'),'https://www.amazon.in/dp/B08BYSGDM8/ref=cm_sw_r_wa_apa_i_LNIoFb53116ZY'];
-export const Serveware3 = [require('./../images/Categories/Serveware/Serveware3.jpg'),'https://www.amazon.in/dp/B08951MYXQ/ref=cm_sw_r_wa_apa_i_cUIoFbCBXS5YF'];
-export const Serveware4 = [require('./../images/Categories/Serveware/Serveware4.jpg'),'https://www.amazon.in/dp/B0894Z8LQG/ref=cm_sw_r_wa_apa_i_1WIoFb7P3J2DE'];
-export const Serveware5 = [require('./../images/Categories/Serveware/Serveware5.jpg'),'https://www.amazon.in/dp/B08663M6VL/ref=cm_sw_r_wa_apa_i_CIJ6EbXRRPNCP'];
-export const Serveware6 = [require('./../images/Categories/Serveware/Serveware6.jpg'),'https://www.amazon.in/dp/B01N76PTKB/ref=cm_sw_r_wa_apa_i_72IoFb0TXQ64H'];
-export const Serveware7 = [require('./../images/Categories/Serveware/Serveware7.jpg'),'https://www.amazon.in/dp/B089CPP8SV/ref=cm_sw_r_wa_apa_i_.NJ6EbPJ20N47'];
+export const Serveware1 = [require('./../images/Categories/Serveware/Serveware1.jpg'),'https://www.amazon.in/dp/B089CW3RFW/ref=cm_sw_r_wa_apa_i_1MJ6EbSVVF8V7','Mango','Serving Platter','Medium','Brass handle'];
+export const Serveware2 = [require('./../images/Categories/Serveware/Serveware2.jpg'),'https://www.amazon.in/dp/B08BYSGDM8/ref=cm_sw_r_wa_apa_i_LNIoFb53116ZY','Mango','Serving','Medium'];
+export const Serveware3 = [require('./../images/Categories/Serveware/Serveware3.jpg'),'https://www.amazon.in/dp/B08951MYXQ/ref=cm_sw_r_wa_apa_i_cUIoFbCBXS5YF','Mango','Serving','Medium/Small'];
+export const Serveware4 = [require('./../images/Categories/Serveware/Serveware4.jpg'),'https://www.amazon.in/dp/B0894Z8LQG/ref=cm_sw_r_wa_apa_i_1WIoFb7P3J2DE','Sheesham','Serving','Medium','Brass inlay work'];
+export const Serveware5 = [require('./../images/Categories/Serveware/Serveware5.jpg'),'https://www.amazon.in/dp/B08663M6VL/ref=cm_sw_r_wa_apa_i_CIJ6EbXRRPNCP','Pine','Serving','Large'];
+export const Serveware6 = [require('./../images/Categories/Serveware/Serveware6.jpg'),'https://www.amazon.in/dp/B01N76PTKB/ref=cm_sw_r_wa_apa_i_72IoFb0TXQ64H','Pine','Serving','Medium'];
+export const Serveware7 = [require('./../images/Categories/Serveware/Serveware7.jpg'),'https://www.amazon.in/dp/B089CPP8SV/ref=cm_sw_r_wa_apa_i_.NJ6EbPJ20N47','Mango','Serving','Medium','Lightening Design'];
